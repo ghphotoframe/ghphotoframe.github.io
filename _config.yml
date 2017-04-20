@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: wxjiang0905@gmail.com
 description: ""
 keyword: ""
-url: "http://ghphotoframe.github.io"              # your host, for absolute URL
+url: "https://github.com/ghphotoframe"              # your host, for absolute URL
 baseurl: "/ghphotoframe.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
