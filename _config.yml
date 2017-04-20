@@ -6,7 +6,7 @@ email: wxjiang0905@gmail.com
 description: ""
 keyword: ""
 url: "http://ghphotoframe.github.io"              # your host, for absolute URL
-baseurl: "/ghphotoframe.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://github.com/ghphotoframe/ghphotoframe.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
