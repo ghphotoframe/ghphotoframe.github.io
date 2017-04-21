@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guanhong Photo Frame Ltd.</title>
+    <description>description</description>
+    <link>https://github.com/ghphotoframe/ghphotoframe.github.io/</link>
+    <atom:link href="https://github.com/ghphotoframe/ghphotoframe.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 21 Apr 2017 01:38:39 -0700</pubDate>
+    <lastBuildDate>Fri, 21 Apr 2017 01:38:39 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Homepage Launched!</title>
+        <description>&lt;p&gt;The homepage of Guanhong Photo Frame Ltd. is online. Here you can find everything about our company, enjoy yourself!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
+        <link>https://github.com/ghphotoframe/ghphotoframe.github.io/2017/04/20/home-page-launched/</link>
+        <guid isPermaLink="true">https://github.com/ghphotoframe/ghphotoframe.github.io/2017/04/20/home-page-launched/</guid>
+        
+        <category>News</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

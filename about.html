@@ -7,21 +7,15 @@ header-img: "img/about-bg.png"
 
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英语 English </option>
+    
+    <option value="0" selected> English </option>
+    <option value="1" > 中文 </option>
 </select>
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    <blockquote>
-        To be added...
-    </blockquote>
-    To be added ...
 
-</div>
 
 <!-- English Version -->
-<div class="en post-container">
+<div class="zh post-container">
     <h1>
         COMPANY OVERVIEW
     </h1>
@@ -29,14 +23,17 @@ header-img: "img/about-bg.png"
     <p>
         Guanhong Photo Frame Ltd. is one of the leading photo frame manufacturer and exporter in Yiwu, Zhejiang Province, China. We specialize in design and manufacturing a wide variety of photo frame response to market trends. In order to stay on the top of the line, we aim to provide competitive price, prompt delivery, top quality and good services to our customers all around the world. We will continue to invest to ensure that our customers can depend on us to deliver the very highest quality picture frame products and services. For additional information, please feel free to contact us anytime.
     </p>
-
-
 <!--    <p style="text-align:right;">
     -- Steve Jobs
     </p>
 -->
 </div>
 
+<!--Chinese Version-->
+<div class="en post-container">
+<h1> 公司简介 </h1>
+<p>冠泓相框有限公司... <p>
+</div>
 <!-- Handle Language Change -->
 <script type="text/javascript">
     var $zh = document.querySelector(".zh");

@@ -8,7 +8,8 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
                 <div class="site-heading">
-                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+		    <h2>{{ page.chinesename }}</h2>
+		    <h2>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h2>
                     <!--<hr class="small">-->
                     <span class="subheading">{{ page.description }}</span>
                 </div>
@@ -112,7 +113,7 @@ layout: default
 			
 			
 
-                        <!-- SNS Link -->
+                        <!-- SNS Link 
                         <ul class="list-inline">
                             {% if site.RSS %}
                             <li>
@@ -175,7 +176,7 @@ layout: default
                             </li>
                             {% endif %}
                         </ul>
-			
+			-->
 			
                     </div>
                 </section>
